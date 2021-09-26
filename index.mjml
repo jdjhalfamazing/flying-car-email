@@ -1,0 +1,129 @@
+<mjml>
+  <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+       
+             <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">Bestla Tech Industry</p>
+        </mj-text>
+          <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="1px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:15px; font-family:Georgia,Helvetica,Arial,sans-serif">The Future Is Here.</p>
+        </mj-text>
+        <mj-image align="center" padding="10px 25px" src="download.jpg" target="_blank" width="214px"></mj-image>
+           
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="15px" padding-top="0px" padding="10px 25px">
+          <p style="text-align: center; margin: 10px 0;color:#151e23;font-size:14px;font-family:Georgia,Helvetica,Arial,sans-serif">Future | Technology | Safety | Self-Driving | Advanced | Affordable</p>
+        </mj-text>
+        
+    
+      </mj-column>
+    </mj-section>
+    <mj-section background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="0px" padding-left="0px" padding-right="0px" padding-top="0px" padding="10px 25px" src="488.jpg" target="_blank" width="600px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" background-size="auto" padding-bottom="0px" padding-top="30px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Georgia,Helvetica,Arial,sans-serif">Discount On All Self-Flying Cars! </p>
+        </mj-text>
+        
+        
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="1.jpg" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+            <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Honda 5000</b></p>     
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">$100,000 Down Payment</p>
+         
+             <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Self-Driving</p>
+           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">200 MPH</p>
+           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Fuel: Solar Powered</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    
+    
+ 
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="20px" padding="10px 25px" src="images.jpg" target="_blank" width="1200px" > </mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+           <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Honda 3005</b></p>     
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">$75,000 Down Payment</p>
+         
+             <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Self-Driving</p>
+           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">210 MPH</p>
+           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Fuel: Solar Powered</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="Default.jpg" target="_blank" width="1200px"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="13px" line-height="22px" padding-bottom="0px" padding-left="40px" padding-right="40px" padding-top="0px" padding="10px 25px">
+          <p style="margin: 10px 0; color:#151e23; font-size:16px; font-family:Georgia,Helvetica,Arial,sans-serif"><b>Honda 3000</b></p>
+          <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">$85,000 Down Payment</p>
+         
+             <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Self-Driving</p>
+           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">205 MPH</p>
+           <p style="line-height: 16px; margin: 10px 0;font-size:14px; color:#151e23; font-family:Georgia,Helvetica,Arial,sans-serif; color:#354552">Fuel: Solar Powered</p>
+         
+         
+    
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        <mj-button align="center" background-color="#35789" border-radius="3px" color="#ffffff" font-family="Georgia, Helvetica, Arial, sans-serif" font-size="14px" font-weight="normal" inner-padding="10px 25px" padding="10px 25px" text-decoration="none"
+          text-transform="none" vertical-align="middle">Order Now</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding-bottom="0px" padding-top="0px" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+        
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" background-repeat="repeat" padding="20px 0" text-align="center" vertical-align="top">
+      <mj-column>
+   
+        <mj-image align="center" padding-bottom="20px" padding-left="30px" padding-right="30px" padding-top="0px" padding="10px 25px" src="dubai.webp" target="_blank" width="1200px"></mj-image>
+        
+         <mj-text align="left" color="#55575d" font-family="Arial, sans-serif" font-size="30px" line-height="22px" padding-bottom="10px" padding-top="10px" padding="10px 25px">
+          <p style="line-height: 30px; margin: 10px 0; text-align: center; color:#151e23; font-size:30p; font-family:Georgia, Helvetica, Arial, sans-seriff">Buy Now With No/Bad Credit</p>
+        </mj-text> 
+        
+        <mj-social align="center">
+          <mj-social-element name="facebook"></mj-social-element>
+          <mj-social-element name="pinterest"></mj-social-element>
+          <mj-social-element name="instagram"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
